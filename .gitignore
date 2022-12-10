@@ -1,0 +1,29 @@
+/.ipynb_checkpoints
+/.vscode
+/analysis to perform.txt
+/credentials.json
+/data
+/draft ML market trends.ipynb
+/draft ML market trends.pdf
+/geometric_brownian_motion.py
+/images
+/Improving Random Forest Part 1.ipynb
+/Improving Random Forest Part 2.ipynb
+/INTC_prediction.ipynb
+/jump_diffusion.py
+/market_cipher_b.py
+/momentum_frames.ipynb
+/pred vs actual.png
+/price_model.pkl
+/Random Forest Explained.ipynb
+/rf_drawings.docx
+/small_tree.dot
+/tda_api_first.py
+/TDA_TEST.ipynb
+/TDA_TEST_for_case.ipynb
+/testing_stock_class.py
+/testing_stock_class.txt
+/time series.png
+/useful_stock_analytics.py
+/Yves Hilpisch - Python for Finance_ Mastering Data-Driven Finance Book-O'Reilly (2018).pdf
+/__pycache__
